@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launch.png",
+        "source": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/res/mipmap-xhdpi/ic_launch.png"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_app.png",
+        "source": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/res/mipmap-xhdpi/ic_app.png"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
