@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:2:1-56:12
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml
@@ -60,7 +60,7 @@ ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/mai
 	android:name
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:14:22-77
 application
-ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:16:5-54:19
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:16:5-55:19
 MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.0.3] /Users/labadmin/.android/build-cache/3141ab8053adaaf74e33767bf33e2440713af561/output/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/labadmin/.android/build-cache/bb6bd417d83c3cbaee53195ae89cd8a9b6f9a754/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:29:5-20
@@ -138,15 +138,19 @@ ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/mai
 	android:scheme
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:47:21-43
 activity#com.codepath.apps.mysimpletweets.TimelineActivity
-ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:50:9-52:59
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:50:9-51:84
 	android:theme
-		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:52:13-56
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:51:46-81
 	android:name
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:51:13-45
 activity#com.codepath.apps.mysimpletweets.ComposeActivity
-ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:53:9-62
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:52:9-62
 	android:name
-		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:53:19-50
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:52:19-50
+activity#com.codepath.apps.mysimpletweets.ProfileActivity
+ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:54:9-62
+	android:name
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:54:19-50
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] /Users/labadmin/.android/build-cache/9478bd054b230c185d940032e08f73b11e7fed80/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/AndroidManifest.xml:25:5-27:34

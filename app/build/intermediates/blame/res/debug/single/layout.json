@@ -36,12 +36,12 @@
         "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/layout/select_dialog_item_material.xml"
-    },
-    {
         "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
         "source": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/labadmin/.android/build-cache/db14ae11c4ec0e079f00cd7fee17902a323e874c/output/res/layout/select_dialog_item_material.xml"
     },
     {
         "merged": "/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",

@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="240a9b54a2fba47f48ca526051c8beb7ef8f539b">
-        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b545622f8d52ee17ad237510c03c6d695dc30ed6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8efda8a8ce458cac2def389ba4051591f09e9d2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bb98695d93d734be7b6b814b178b8305a9a1b6a">
+        <dex dex="/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b545622f8d52ee17ad237510c03c6d695dc30ed6/classes.dex" />
     </item>
 
 </items>

@@ -17,7 +17,9 @@ import com.codepath.apps.mysimpletweets.fragment.HomeTimelineFragment;
 import com.codepath.apps.mysimpletweets.fragment.MentionsTimelineFragment;
 import com.codepath.apps.mysimpletweets.models.User;
 
-public class TimelineActivity extends AppCompatActivity /*ActionBarActivity*/ {
+public class TimelineActivity extends AppCompatActivity  {
+
+
 
     private SwipeRefreshLayout swipeContainer;
     private User user;
@@ -110,24 +112,19 @@ public class TimelineActivity extends AppCompatActivity /*ActionBarActivity*/ {
         return true;
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        int id = item.getItemId();
-       /* if (id == R.id.action_settings) {
-            return true;
-        }*/
-        return super.onOptionsItemSelected(item);
-    }
-    public void onProfileView (MenuItem mi){
-        //Launch the activity_profile view
+
+
+    public void onProfileView(MenuItem mi){
+        //Toast.makeText(this, "test", Toast.LENGTH_SHORT).show();
         Intent i = new Intent(this, ProfileActivity.class);
         startActivity(i);
-
-
     }
 
+
+
+
     //return fragment in the view pager
-    public class TweetsPagerAdapter extends FragmentPagerAdapter {
+    public class TweetsPagerAdapter extends FragmentPagerAdapter{
         //final int PAGE_COUNT = 2;
         //return the order of the fragment in the view page
         private String tabTitle[] = {"Home", "@Mentions"};

@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/ivProfileImage"
         android:layout_toEndOf="@+id/ivProfileImage"
+        android:layout_margin="8dp"
         android:text="Billy" />
 
     <TextView

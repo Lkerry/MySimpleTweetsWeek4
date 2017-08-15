@@ -43,7 +43,8 @@ public class TweetsListFragment extends Fragment {
 
     }
     public void addAll(List<Tweet> tweets){
-        aTweets.addAll(tweets);}
+        aTweets.addAll(tweets);
+    }
 
 
 }
