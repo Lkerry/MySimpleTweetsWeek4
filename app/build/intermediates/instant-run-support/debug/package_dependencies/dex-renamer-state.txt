@@ -1,4 +1,4 @@
-#Tue Aug 15 11:43:56 EDT 2017
+#Wed Aug 16 13:49:19 EDT 2017
 file.9=/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_befac0edcd385525e78f4232f950d6c2361f0827/classes.dex
 base.10=/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/transforms/dex/debug/folders/1000/10/codepath-utils_9164b25c1dc883f6cd7aede80f53e9ed18dcba9f
 file.8=/Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab9c6942dc7484e82d3571039dd43552e9eaf894/classes.dex

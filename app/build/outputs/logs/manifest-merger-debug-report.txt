@@ -76,11 +76,11 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /Users/labadmin/.androi
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/labadmin/.android/build-cache/d8d88723ef103fc1b58df3bab0c6db1c4c2443eb/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/labadmin/.android/build-cache/8be53ec4425d98f4b6f978a7848750d6d70b423f/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:20:9-41
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:20:9-38
 	android:allowBackup
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:18:9-35
 	android:icon
-		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:19:9-45
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:19:9-39
 	android:theme
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:21:9-40
 	android:name
@@ -100,9 +100,9 @@ ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/mai
 activity#com.codepath.apps.mysimpletweets.LoginActivity
 ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:29:9-49:20
 	android:label
-		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:31:13-45
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:31:13-36
 	android:icon
-		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:32:13-47
+		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:32:13-45
 	android:theme
 		ADDED from /Users/labadmin/AndroidStudioProjects/MySimpleTweetsWeek4/app/src/main/AndroidManifest.xml:33:13-44
 	android:name
